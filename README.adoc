@@ -1,5 +1,7 @@
 = query phone number information
 
+https://github.com/ls0f/phone[phone data]
+
 == perl6
 
 perl6 msi.p6 msi.unl num.unl
