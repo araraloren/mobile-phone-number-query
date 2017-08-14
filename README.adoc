@@ -1,0 +1,13 @@
+= query phone number information
+
+== perl6
+
+perl6 msi.p6 msi.unl num.unl
+
+== perl
+
+perl msi.pl
+
+== python
+
+python msi.py num.unl
